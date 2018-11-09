@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1541792008 source:c:\users\kobe\desktop\trabajo_practico3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1541586372 c:\users\kobe\desktop\trabajo_practico3\linkedlist.h
+
+1541586372 c:\users\kobe\desktop\trabajo_practico3\controller.h
+
+1541790254 c:\users\kobe\desktop\trabajo_practico3\employee.h
+	"LinkedList.h"
+
+1541791904 source:c:\users\kobe\desktop\trabajo_practico3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1541586372 c:\users\kobe\desktop\trabajo_practico3\parser.h
+
+1541586372 c:\users\kobe\desktop\trabajo_practico3\utn.h
+
+1541793067 source:c:\users\kobe\desktop\trabajo_practico3\employee.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Employee.h"
+	"Controller.h"
+	"utn.h"
+
+1541788957 source:c:\users\kobe\desktop\trabajo_practico3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541586372 source:c:\users\kobe\desktop\trabajo_practico3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
